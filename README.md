@@ -1,4 +1,3 @@
-# Note-Taker-App
 # Note taker app:
 
 
